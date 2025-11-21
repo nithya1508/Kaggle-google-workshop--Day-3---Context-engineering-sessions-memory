@@ -139,6 +139,6 @@ MIT License.
 If you would like to discuss AI agents, cloud technologies, or collaborate on projects:
 
 Nithyashree Babu
-Business Analytics | AI Engineering | Cloud Technologies
-GitHub: your link
-LinkedIn: your link
+MSc Business Analytics | AI & Data | Cloud
+GitHub:https://github.com/nithya1508 
+LinkedIn:https://www.linkedin.com/in/cognitiveinsight/
